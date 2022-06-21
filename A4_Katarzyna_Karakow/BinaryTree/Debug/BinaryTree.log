@@ -1,0 +1,7 @@
+﻿  main.c
+\\Mac\Home\Downloads\BinaryTree 2\BinaryTree\BinaryTree.h(116,37): warning C4013: 'findMinimum' undefined; assuming extern returning int
+\\Mac\Home\Downloads\BinaryTree 2\BinaryTree\BinaryTree.h(118,14): warning C4047: 'function': 'int' differs in levels of indirection from 'node *'
+\\Mac\Home\Downloads\BinaryTree 2\BinaryTree\BinaryTree.h(118,10): warning C4024: 'delete': different types for formal and actual parameter 1
+\\Mac\Home\Downloads\BinaryTree 2\BinaryTree\BinaryTree.h(118,23): warning C4020: 'delete': too many actual parameters
+\\Mac\Home\Downloads\BinaryTree 2\BinaryTree\BinaryTree.h(116,1): warning C4047: 'initializing': 'node *' differs in levels of indirection from 'int'
+\\Mac\Home\Downloads\BinaryTree 2\BinaryTree\BinaryTree.h(137,14): error C2040: 'findMinimum': 'node *(node *)' differs in levels of indirection from 'int ()'
